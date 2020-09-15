@@ -1,1 +1,1 @@
-﻿<img src="C#apture.PNG" alt="Project Output">
+﻿<img src="https://github.com/Ngugisenior/Calculator/blob/master/Calculator/C%23pture.PNG" alt="Project Output">
